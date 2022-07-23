@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+.Header-background{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.Header-Tittle{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    width: 1240px;
+    padding: 20px 0px;
+    
+}
+.Logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900px;
+    width: 620px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.Link-one , .Link-two , .Link-three{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.Header-Tittle-link{
+    width: 620px;
+    display: flex;
+    justify-content: space-between;
+}
+.Header-Content{
+    display: flex;
+    
+}
+.Content{
+    display: flex ;
+    
+}
