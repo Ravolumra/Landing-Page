@@ -46,12 +46,15 @@
     width: 1240px;
     padding: 20px 0px;
     margin-left: 162.5px;
+    align-items: flex-start;
 }
 .Content-Head{
     color: #F9FAF8;
     font-size: 48px ;
     font-weight: 700;
     width: 620px;
+    display: flex;
+    justify-content: space-evenly;
 }
 .content-pa{
     color: #E5E7EB;
@@ -67,4 +70,14 @@
     background-color: #3882f6;
     color: #F9FAF8;
     border: none;
+}
+.img{
+    display: flex;
+    align-self: center;
+    color: #E5E7EB;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    background-color: grey;
+    text-align:justify center
 }
