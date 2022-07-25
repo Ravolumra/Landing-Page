@@ -105,7 +105,30 @@
 }
 .random-information{
     display: flex;
-    width: 1240px;
+    width: 1000px;
     justify-content: space-between;
     padding-top: 20px;
+}
+.qoute{
+    margin-top: 30px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+.quote-word{
+
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    width: 900px;
+}
+.author{
+    font-size: 32px;
+    font-weight: 700;
+    color: #1F2937;
+    padding-top: 10px;
+    margin-left: 300px;
 }
