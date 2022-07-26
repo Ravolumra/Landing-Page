@@ -70,6 +70,7 @@
     background-color: #3882f6;
     color: #F9FAF8;
     border: none;
+    margin-top: 10px;
 }
 .img{
     display: flex;
@@ -134,7 +135,7 @@
 }
 .main3{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     width: 1240px;
     background-color: #3882f6;
@@ -142,4 +143,33 @@
     margin-top: 50px;
     height: 100px;
     border-radius: 5px;
+}
+.Call{
+    color: #E5E7EB;
+}
+.sign{
+    color: #E5E7EB;
+}
+.buttons-blue{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: #E5E7EB;
+    width: 100px;
+    background-color: #3882f6;
+    color: #E5E7EB;
+    padding-top: 5px;
+    padding-bottom:5px ;
+}
+.hero-main4{
+    margin-top: 50px;
+    background-color: #1d2937;
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.items2{
+    color: #E5E7EB;
+    font-size: 20px;
 }
